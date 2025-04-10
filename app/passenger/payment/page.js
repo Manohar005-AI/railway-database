@@ -1,0 +1,1 @@
+import PassengerSidebar from '@/components/PassengerSidebar';

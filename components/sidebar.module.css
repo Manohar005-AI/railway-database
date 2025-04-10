@@ -1,0 +1,22 @@
+.sidebar {
+    width: 200px;
+    min-height: 100vh;
+    background: #f1f1f1;
+    padding: 20px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  .link {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .active {
+    background: #ddd;
+  }
+  
